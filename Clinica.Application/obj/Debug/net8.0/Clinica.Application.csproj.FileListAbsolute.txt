@@ -1,0 +1,270 @@
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\appsettings.json
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Application.staticwebassets.runtime.json
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Application.exe
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Application.deps.json
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Application.runtimeconfig.json
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Application.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Application.pdb
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Domain.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Infrastructure.Data.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Service.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Domain.pdb
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Service.pdb
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Infrastructure.Data.pdb
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.csproj.AssemblyReference.cache
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.AssemblyInfoInputs.cache
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.AssemblyInfo.cs
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.csproj.CoreCompileInputs.cache
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.RazorAssemblyInfo.cache
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.RazorAssemblyInfo.cs
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets\msbuild.Clinica.Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Clinica.Application.props
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Clinica.Application.props
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Clinica.Application.props
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\scopedcss\bundle\Clinica.Application.styles.css
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\scopedcss\projectbundle\Clinica.Application.bundle.scp.css
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica..2911F8A5.Up2Date
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\refint\Clinica.Application.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.pdb
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.genruntimeconfig.cache
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Application\obj\Debug\net8.0\ref\Clinica.Application.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\appsettings.Development.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\appsettings.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Clinica.Application.staticwebassets.runtime.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Clinica.Application.exe
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Clinica.Application.deps.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Clinica.Application.runtimeconfig.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Clinica.Application.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Clinica.Application.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\AutoMapper.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Azure.Core.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Azure.Identity.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\FluentValidation.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Clinica.Domain.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Clinica.Infrastructure.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Clinica.Service.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Clinica.Domain.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Clinica.Service.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\bin\Debug\net8.0\Clinica.Infrastructure.Data.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica.Application.csproj.AssemblyReference.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica.Application.AssemblyInfoInputs.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica.Application.AssemblyInfo.cs
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica.Application.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica.Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica.Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica.Application.RazorAssemblyInfo.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica.Application.RazorAssemblyInfo.cs
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\staticwebassets.build.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\staticwebassets.development.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\staticwebassets\msbuild.Clinica.Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Clinica.Application.props
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Clinica.Application.props
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Clinica.Application.props
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\scopedcss\bundle\Clinica.Application.styles.css
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\scopedcss\projectbundle\Clinica.Application.bundle.scp.css
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica..2911F8A5.Up2Date
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica.Application.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\refint\Clinica.Application.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica.Application.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\Clinica.Application.genruntimeconfig.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Application\obj\Debug\net8.0\ref\Clinica.Application.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\appsettings.Development.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\appsettings.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Application.staticwebassets.runtime.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Application.exe
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Application.deps.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Application.runtimeconfig.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Application.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Application.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\AutoMapper.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Azure.Core.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Azure.Identity.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\FluentValidation.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Domain.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Infrastructure.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Service.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Domain.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Service.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\bin\Debug\net8.0\Clinica.Infrastructure.Data.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.csproj.AssemblyReference.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.AssemblyInfoInputs.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.AssemblyInfo.cs
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.RazorAssemblyInfo.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.RazorAssemblyInfo.cs
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets.build.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets.development.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets\msbuild.Clinica.Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Clinica.Application.props
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Clinica.Application.props
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Clinica.Application.props
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\scopedcss\bundle\Clinica.Application.styles.css
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\scopedcss\projectbundle\Clinica.Application.bundle.scp.css
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica..2911F8A5.Up2Date
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\refint\Clinica.Application.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.genruntimeconfig.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\ref\Clinica.Application.dll

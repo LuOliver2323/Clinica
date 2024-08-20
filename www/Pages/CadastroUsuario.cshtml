@@ -1,0 +1,73 @@
+﻿@page
+@model www.Pages.CadastroUsuarioModel
+@{
+    ViewData["Title"] = "Cadastro do Usuário";
+
+}
+
+<div class="row">
+
+    <div class="col-12">
+        <h1>
+            <button type="button" id="btnPesquisar" class="btn btn-light" onclick="window.location.href='/PesquisaUsuario'">
+                <img src="~/imagens/procurar.png" alt="Pesquisar" style="width: 20px; height: 20px;">
+                Pesquisar
+            </button>
+            <center>Cadastro de Usuário</center></h1>
+    </div>
+
+    <div class="col-10 form-group">
+        <button type="button" id="btnNovo" class="btn btn-success">Novo</button>
+        <button type="button" id="btnEditar" class="btn btn-warning">Editar</button>
+        <button type="button" id="btnInativar" class="btn btn-danger">Inativar</button>
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtstatus">Status</label>
+        <select id="txtstatus" class="form-control" disabled>
+            <option value="1">Ativo</option>
+            <option value="0">Inativo</option>
+        </select>
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtid">Código</label>
+        <input type="text" id="txtid" value="0" class="form-control" readonly>
+    </div>
+
+    <div class="col-4 form-group">
+        <label for="txtnome">Nome</label>
+        <input type="text" id="txtnome" placeholder="Insira o nome do usuário..." class="form-control" maxlength="30">
+        <div class="invalid-feedback">O nome do usuário é obrigatório.</div>
+    </div>
+
+    <div class="col-6 form-group">
+        <label for="txtemail">Email</label>
+        <input type="email" id="txtemail" placeholder="Insira o email do usuário..." class="form-control" maxlength="60">
+        <div class="invalid-feedback">O email do usuário é obrigatório.</div>
+    </div>
+
+    <div class="col-6 form-group">
+        <label for="txtsenha">Senha</label>
+        <input type="password" id="txtsenha" placeholder="Insira a senha..." class="form-control" minlength="4" maxlength="10">
+        <div class="invalid-feedback">A senha é obrigatória e deve conter no mínimo 4 dígitos.</div>
+    </div>
+
+   @*  <div class="col-6 form-group">
+        <label for="imagemUsuario">Imagem</label>
+        <input type="file" id="imagemUsuario" class="form-control">
+        <img id="imagemUsuarioPreview" src="/path/to/default/image.jpg" alt="Imagem do usuário" style="width: 100px; height: 100px; margin-top: 10px;">
+    </div> *@
+
+    <div class="col-12 form-group">
+        <button type="button" id="btnsalvar" class="btn btn-primary">Salvar</button>
+    </div>
+</div>
+
+<hr />
+
+
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/js/CadastroUsuario.js"></script>
+}

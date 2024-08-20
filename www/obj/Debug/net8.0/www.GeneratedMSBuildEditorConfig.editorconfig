@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = www
+build_property.RootNamespace = www
+build_property.ProjectDir = D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\www\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\www
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/BaixaContasPagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFpeGFDb250YXNQYWdhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/CadastroEspecialidade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm9Fc3BlY2lhbGlkYWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/CadastroFormaPagamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm9Gb3JtYVBhZ2FtZW50by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/CadastroPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm9QYWNpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/CadastroProfissional.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm9Qcm9maXNzaW9uYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/CadastroUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cm9Vc3VhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/CondicaoPagamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uZGljYW9QYWdhbWVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/ContasPagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFzUGFnYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/HomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/PesquisaCondicao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVzcXVpc2FDb25kaWNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/PesquisaContasPagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVzcXVpc2FDb250YXNQYWdhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/PesquisaEspecialidade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVzcXVpc2FFc3BlY2lhbGlkYWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/PesquisaFormaPagamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVzcXVpc2FGb3JtYVBhZ2FtZW50by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/PesquisaPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVzcXVpc2FQYWNpZW50ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/PesquisaProfissional.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVzcXVpc2FQcm9maXNzaW9uYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/PesquisaUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGVzcXVpc2FVc3VhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/VERSÃO OFICIAL/Clinica/www/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-chs5yyj27i

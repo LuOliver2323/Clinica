@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u00C1rea de Trabalho\\VERS\u00C3O OFICIAL\\Clinica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3067BED3-8F77-447E-85C6-2C904A7F6DA7}|www\\www.csproj|d:\\\u00E1rea de trabalho\\vers\u00E3o oficial\\clinica\\www\\pages\\pesquisaespecialidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3067BED3-8F77-447E-85C6-2C904A7F6DA7}|www\\www.csproj|solutionrelative:www\\pages\\pesquisaespecialidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3067BED3-8F77-447E-85C6-2C904A7F6DA7}|www\\www.csproj|d:\\\u00E1rea de trabalho\\vers\u00E3o oficial\\clinica\\www\\wwwroot\\js\\especialidade.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3067BED3-8F77-447E-85C6-2C904A7F6DA7}|www\\www.csproj|solutionrelative:www\\wwwroot\\js\\especialidade.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Especialidade.js",
+              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\VERS\u00C3O OFICIAL\\Clinica\\www\\wwwroot\\js\\Especialidade.js",
+              "RelativeDocumentMoniker": "www\\wwwroot\\js\\Especialidade.js",
+              "ToolTip": "D:\\\u00C1rea de Trabalho\\VERS\u00C3O OFICIAL\\Clinica\\www\\wwwroot\\js\\Especialidade.js",
+              "RelativeToolTip": "www\\wwwroot\\js\\Especialidade.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-07T22:16:41.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PesquisaEspecialidade.cshtml",
+              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\VERS\u00C3O OFICIAL\\Clinica\\www\\Pages\\PesquisaEspecialidade.cshtml",
+              "RelativeDocumentMoniker": "www\\Pages\\PesquisaEspecialidade.cshtml",
+              "ToolTip": "D:\\\u00C1rea de Trabalho\\VERS\u00C3O OFICIAL\\Clinica\\www\\Pages\\PesquisaEspecialidade.cshtml",
+              "RelativeToolTip": "www\\Pages\\PesquisaEspecialidade.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAqwD8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T22:14:23.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
