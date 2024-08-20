@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿################################################################################
 # Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
 ################################################################################
@@ -25,4 +26,59 @@
 /Clinica.Service/obj/Debug/net8.0/Clinica.Service.csproj.AssemblyReference.cache
 /Clinica.Service/obj/Debug/net8.0/Clinica.Service.AssemblyInfo.cs
 /www/obj/Debug/net8.0/www.AssemblyInfo.cs
+=======
+﻿# Ignorar diret�rios de build e output
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]est[Rr]esult*/
+
+# Arquivos de projeto espec�ficos do Visual Studio e .NET
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.vs/
+*.vscode/
+*.userprefs
+*.suo
+*.nupkg
+*.snk
+*.sln.cache
+
+# Arquivos de cache de pacote NuGet
+project.lock.json
+project.assets.json
+.csproj.nuget.
+project.nuget.cache
+
+# Arquivos de cache do Visual Studio
+*.cache
+*.csproj.AssemblyReference.cache
+
+# Outros arquivos e diret�rios gerados
+*.ser
+*.Swipe
+*.DocStates
+
+# Arquivos tempor�rios do sistema
+*.tmp
+*.temp
+*.tlog/
+/Clinica.Domain/obj/Debug/net8.0/Clinica.Domain.AssemblyInfo.cs
+/Clinica.Domain/obj/Debug/net8.0/Clinica.Domain.AssemblyInfoInputs.cache
+/Clinica.Application/obj/Debug/net8.0/Clinica.Application.AssemblyInfoInputs.cache
+/Clinica.Infrastructure.Data/obj/Debug/net8.0/Clinica.Infrastructure.Data.AssemblyInfoInputs.cache
+/Clinica.Service/obj/Debug/net8.0/Clinica.Service.AssemblyInfo.cs
+/Clinica.Infrastructure.Data/obj/Debug/net8.0/Clinica.Infrastructure.Data.AssemblyInfo.cs
+/Clinica.Application/obj/Debug/net8.0/Clinica.Application.csproj.AssemblyReference.cache
+/Clinica.Infrastructure.Data/obj/Debug/net8.0/Clinica.Infrastructure.Data.csproj.AssemblyReference.cache
+/Clinica.Service/obj/Debug/net8.0/Clinica.Service.csproj.AssemblyReference.cache
+/www/obj/Debug/net8.0/www.AssemblyInfo.cs
+/Clinica.Application/obj/Debug/net8.0/Clinica.Application.AssemblyInfo.cs
+/Clinica.Service/obj/Debug/net8.0/Clinica.Service.AssemblyInfoInputs.cache
+>>>>>>> Lucas
 /www/obj/Debug/net8.0/www.AssemblyInfoInputs.cache

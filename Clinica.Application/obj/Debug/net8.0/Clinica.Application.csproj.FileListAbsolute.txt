@@ -268,3 +268,4 @@ D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.pdb
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.genruntimeconfig.cache
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\ref\Clinica.Application.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Application\obj\Debug\net8.0\Clinica.Application.sourcelink.json

@@ -49,3 +49,4 @@ D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Service\obj\Debug\net8.0\Cl
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Service\obj\Debug\net8.0\refint\Clinica.Service.dll
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Service\obj\Debug\net8.0\Clinica.Service.pdb
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Service\obj\Debug\net8.0\ref\Clinica.Service.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Service\obj\Debug\net8.0\Clinica.Service.sourcelink.json

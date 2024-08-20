@@ -34,3 +34,4 @@ D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Domain\obj\Debug\net8.0\Cli
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Domain\obj\Debug\net8.0\refint\Clinica.Domain.dll
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Domain\obj\Debug\net8.0\Clinica.Domain.pdb
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Domain\obj\Debug\net8.0\ref\Clinica.Domain.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Domain\obj\Debug\net8.0\Clinica.Domain.sourcelink.json

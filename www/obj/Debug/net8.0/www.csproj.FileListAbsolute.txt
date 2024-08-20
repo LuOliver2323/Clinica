@@ -88,3 +88,4 @@ D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\www\obj\Debug\net8.0\refint\www.dll
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\www\obj\Debug\net8.0\www.pdb
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\www\obj\Debug\net8.0\www.genruntimeconfig.cache
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\www\obj\Debug\net8.0\ref\www.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\www\obj\Debug\net8.0\www.sourcelink.json

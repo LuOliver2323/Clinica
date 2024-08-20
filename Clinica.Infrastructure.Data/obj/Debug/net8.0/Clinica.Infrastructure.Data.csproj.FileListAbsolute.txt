@@ -43,3 +43,4 @@ D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Deb
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\refint\Clinica.Infrastructure.Data.dll
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.pdb
 D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\ref\Clinica.Infrastructure.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.sourcelink.json
