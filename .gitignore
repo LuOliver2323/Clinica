@@ -1,3 +1,32 @@
+<<<<<<< HEAD
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Clinica/FileContentIndex/95aab6b4-81ba-4398-b977-b7cf6dbbd908.vsidx
+/.vs/Clinica/FileContentIndex/95aab6b4-81ba-4398-b977-b7cf6dbbd908.vsidx
+/.vs/Clinica/FileContentIndex/3b08313b-0c0c-4223-b3d4-0b1f565fcf78.vsidx
+/.vs/Clinica/FileContentIndex/a3803078-2c68-48c6-bf67-a910cc29263d.vsidx
+/.vs/Clinica/FileContentIndex/da2e8e9e-d6f5-41a6-9129-d220d4830b81.vsidx
+/.vs/Clinica/FileContentIndex/dd676bf0-2c44-4191-9f18-5b216799637e.vsidx
+/.vs/Clinica/FileContentIndex
+/Clinica/obj/Debug/net8.0/Clinica.AssemblyInfoInputs.cache
+/Clinica.Application/obj/Debug/net8.0/Clinica.Application.AssemblyInfoInputs.cache
+/Clinica.Application/obj/Debug/net8.0/Clinica.Application.csproj.AssemblyReference.cache
+/Clinica.Application/obj/Debug/net8.0/Clinica.Application.AssemblyInfo.cs
+/Clinica.Infrastructure.Data/obj/Debug/net8.0/Clinica.Infrastructure.Data.AssemblyInfo.cs
+/Clinica.Infrastructure.Data/obj/Debug/net8.0/Clinica.Infrastructure.Data.csproj.AssemblyReference.cache
+/Clinica.Domain/obj/Debug/net8.0/Clinica.Domain.AssemblyInfoInputs.cache
+/Clinica.Domain/obj/Debug/net8.0/Clinica.Domain.AssemblyInfo.cs
+/Clinica.Infrastructure.Data/obj/Debug/net8.0/Clinica.Infrastructure.Data.AssemblyInfoInputs.cache
+/Clinica.Infrastrucute.CrossCutting/obj/Debug/net8.0/Clinica.Infrastructure.CrossCutting.AssemblyInfo.cs
+/Clinica.Infrastrucute.CrossCutting/obj/Debug/net8.0/Clinica.Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+/Clinica/obj/Debug/net8.0/Clinica.AssemblyInfo.cs
+/Clinica.Service/obj/Debug/net8.0/Clinica.Service.AssemblyInfoInputs.cache
+/Clinica.Service/obj/Debug/net8.0/Clinica.Service.csproj.AssemblyReference.cache
+/Clinica.Service/obj/Debug/net8.0/Clinica.Service.AssemblyInfo.cs
+/www/obj/Debug/net8.0/www.AssemblyInfo.cs
+=======
 ﻿# Ignorar diret�rios de build e output
 [Bb]in/
 [Oo]bj/
@@ -51,4 +80,5 @@ project.nuget.cache
 /www/obj/Debug/net8.0/www.AssemblyInfo.cs
 /Clinica.Application/obj/Debug/net8.0/Clinica.Application.AssemblyInfo.cs
 /Clinica.Service/obj/Debug/net8.0/Clinica.Service.AssemblyInfoInputs.cache
+>>>>>>> Lucas
 /www/obj/Debug/net8.0/www.AssemblyInfoInputs.cache
