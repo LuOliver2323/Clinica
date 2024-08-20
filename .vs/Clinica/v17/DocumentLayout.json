@@ -14,7 +14,6 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -22,11 +21,6 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-=======
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
->>>>>>> Lucas
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CadastroEspecialidade.cshtml",
@@ -34,7 +28,7 @@
               "RelativeDocumentMoniker": "www\\Pages\\CadastroEspecialidade.cshtml",
               "ToolTip": "D:\\\u00C1rea de Trabalho\\VERS\u00C3O OFICIAL\\Clinica\\www\\Pages\\CadastroEspecialidade.cshtml",
               "RelativeToolTip": "www\\Pages\\CadastroEspecialidade.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-20T23:17:17.213Z",
               "EditorCaption": ""
