@@ -1,0 +1,46 @@
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Infrastructure.Data.deps.json
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Infrastructure.Data.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Infrastructure.Data.pdb
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Domain.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Domain.pdb
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica..7450B5CF.Up2Date
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\refint\Clinica.Infrastructure.Data.dll
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.pdb
+C:\Users\Joao-PC\Desktop\Clinica - Front ok - 2 Cadastros\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\ref\Clinica.Infrastructure.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Infrastructure.Data.deps.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Infrastructure.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Infrastructure.Data.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Domain.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Domain.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.AssemblyInfo.cs
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica..7450B5CF.Up2Date
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\obj\Debug\net8.0\refint\Clinica.Infrastructure.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica_\Clinica.Infrastructure.Data\obj\Debug\net8.0\ref\Clinica.Infrastructure.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Infrastructure.Data.deps.json
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Infrastructure.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Infrastructure.Data.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Domain.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\bin\Debug\net8.0\Clinica.Domain.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.AssemblyInfo.cs
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica..7450B5CF.Up2Date
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\refint\Clinica.Infrastructure.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.pdb
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\ref\Clinica.Infrastructure.Data.dll
+D:\Área de Trabalho\VERSÃO OFICIAL\Clinica\Clinica.Infrastructure.Data\obj\Debug\net8.0\Clinica.Infrastructure.Data.sourcelink.json
