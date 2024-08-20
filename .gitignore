@@ -39,3 +39,16 @@ project.nuget.cache
 *.tmp
 *.temp
 *.tlog/
+/Clinica.Domain/obj/Debug/net8.0/Clinica.Domain.AssemblyInfo.cs
+/Clinica.Domain/obj/Debug/net8.0/Clinica.Domain.AssemblyInfoInputs.cache
+/Clinica.Application/obj/Debug/net8.0/Clinica.Application.AssemblyInfoInputs.cache
+/Clinica.Infrastructure.Data/obj/Debug/net8.0/Clinica.Infrastructure.Data.AssemblyInfoInputs.cache
+/Clinica.Service/obj/Debug/net8.0/Clinica.Service.AssemblyInfo.cs
+/Clinica.Infrastructure.Data/obj/Debug/net8.0/Clinica.Infrastructure.Data.AssemblyInfo.cs
+/Clinica.Application/obj/Debug/net8.0/Clinica.Application.csproj.AssemblyReference.cache
+/Clinica.Infrastructure.Data/obj/Debug/net8.0/Clinica.Infrastructure.Data.csproj.AssemblyReference.cache
+/Clinica.Service/obj/Debug/net8.0/Clinica.Service.csproj.AssemblyReference.cache
+/www/obj/Debug/net8.0/www.AssemblyInfo.cs
+/Clinica.Application/obj/Debug/net8.0/Clinica.Application.AssemblyInfo.cs
+/Clinica.Service/obj/Debug/net8.0/Clinica.Service.AssemblyInfoInputs.cache
+/www/obj/Debug/net8.0/www.AssemblyInfoInputs.cache
