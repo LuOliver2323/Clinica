@@ -1,0 +1,140 @@
+﻿@page
+@model www.Pages.ContasApagarModel
+@{
+    ViewData["Title"] = "Contas a Pagar";
+}
+
+<div class="row">
+
+    <div class="col-12">
+        <h1>
+            <button type="button" id="btnPesquisar" class="btn btn-light" onclick="window.location.href='/PesquisaContasPagar'">
+                <img src="~/imagens/procurar.png" alt="Pesquisar" style="width: 20px; height: 20px;">
+                Pesquisar
+            </button>
+            <center>Lançamento de Despesas</center>
+        </h1>
+    </div>
+
+    <div class="col-10 form-group">
+        <button type="button" id="btnNovo" class="btn btn-success">Novo</button>
+        <button type="button" id="btnEditar" class="btn btn btn-warning">Editar</button>
+        <button type="button" id="btnInativar" class="btn btn btn-danger">Inativar</button>
+        <button type="button" id="btnBaixar" class="btn btn-info">Baixar Conta</button>
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="ddlstatus">Status</label>
+        <select id="ddlstatus" class="form-control" disabled>
+            <option value="1">Ativo</option>
+            <option value="0">Inativo</option>
+        </select>
+    </div>
+
+
+    <div class="col-2 form-group">
+        <label for="txtid">Código</label>
+        <input type="text" id="txtid" value="0" class="form-control" readonly>
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="txtdataemissao">Data de Emissão:</label>
+        <input class="form-control" type="date" id="txtdataemissao">
+        <div class="invalid-feedback">A data de emissão é obrigatória.</div>
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="txtdatavencimento">Data de Vencimento:</label>
+        <input class="form-control" type="date" id="txtdatavencimento">
+        <div class="invalid-feedback" id="vencimento-error">A data de vencimento não pode ser menor que a data de emissão.</div>
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtvalor">Valor:</label>
+        <input class="form-control" type="number" id="txtvalor" placeholder="R$000,00">
+        <div class="invalid-feedback">O valor é obrigatório.</div>
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtparcelas">Parcelas:</label>
+        <input class="form-control" type="text" id="txtparcelas" placeholder="0/0" maxlength="5">
+        <div class="invalid-feedback">As parcelas são obrigatórias.</div>
+    </div>
+
+    <div class="col-6 form-group">
+        <label for="txtfornecedor">Fornecedor/Profissional:</label>
+        <input class="form-control" type="text" id="txtfornecedor" placeholder="Insira o Fornecedor ou Profissional..." maxlength="120">
+        <div class="invalid-feedback">O fornecedor é obrigatório.</div>
+    </div>
+
+    <div class="col-6 form-group">
+        <label for="txtdocumento">Documento:</label>
+        <input class="form-control" type="text" id="txtdocumento" placeholder="Insira o Documento..." maxlength="20">
+        <div class="invalid-feedback">O documento é obrigatório.</div>
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="txtvalordesconto">Valor Desconto:</label>
+        <input class="form-control" type="number" id="txtvalordesconto" placeholder="R$ 000,00">
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="txtmultas">Multas (%):</label>
+        <input class="form-control" type="text" id="txtmultas" placeholder="0%">
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="txtjuros">Juros (%):</label>
+        <input class="form-control" type="text" id="txtjuros" placeholder="0%">
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="txtvalorpago">Valor Pago:</label>
+        <input class="form-control" type="number" id="txtvalorpago" readonly>
+    </div>
+
+    <div class="col-12 form-group">
+        <label for="txtobservacoes">Observações:</label>
+        <textarea class="form-control" id="txtobservacoes" placeholder="Insira as observações..." maxlength="350"></textarea>
+    </div>
+
+    <div class="col-12 form-group">
+        <label for="parcelasGeradas">Parcelas Geradas:</label>
+        <ul id="parcelasGeradas" class="list-group"></ul>
+    </div>
+
+    <div class="col-12 form-group">
+        <button type="button" id="btnsalvar" class="btn btn-primary">Salvar</button>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/js/Pagar.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#btnsalvar').click(function () {
+                var dataEmissao = new Date($('#txtdataemissao').val());
+                var dataVencimento = new Date($('#txtdatavencimento').val());
+
+                if (dataVencimento < dataEmissao) {
+                    $('#txtdatavencimento').addClass('is-invalid');
+                    $('#vencimento-error').show();
+                } else {
+                    $('#txtdatavencimento').removeClass('is-invalid');
+                    $('#vencimento-error').hide();
+                    // Adicione aqui a lógica para salvar os dados
+                }
+            });
+
+            document.getElementById('txtvalor').addEventListener('input', function () {
+                if (this.value.length > 10) {
+                    this.value = this.value.slice(0, 10);
+                }
+            });
+
+            
+        });
+    </script>
+}

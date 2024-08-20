@@ -1,0 +1,63 @@
+﻿@page
+@model www.Pages.CadastroFormaPagamentoModel
+@{
+    ViewData["Title"] = "Cadastro de Forma de Pagamento";
+}
+
+<div class="row">
+
+    <div class="col">
+        <h1>
+            <button type="button" id="btnPesquisar" class="btn btn-light" onclick="window.location.href='/PesquisaFormaPagamento'">
+                <img src="~/imagens/procurar.png" alt="Pesquisar" style="width: 20px; height: 20px;">
+                Pesquisar
+            </button>
+            <center>Cadastro de Forma de Pagamento</center>
+        </h1>
+    </div>
+
+    <div class="col-10 form-group">
+        <button type="button" id="btnNovo" class="btn btn-success">Novo</button>
+        <button type="button" id="btnEditar" class="btn btn btn-warning">Editar</button>
+        <button type="button" id="btnInativar" class="btn btn-danger">Inativar</button>
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="ddlstatus">Status</label>
+        <select id="ddlstatus" class="form-control" disabled>
+            <option value="1">Ativo</option>
+            <option value="0">Inativo</option>
+        </select>
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtid">Código</label>
+        <input type="text" id="txtid" value="0" class="form-control" readonly>
+    </div>
+
+    <div class="col-10 form-group">
+        <label for="txtdescricao">Forma de Pagamento</label>
+        <input type="text" id="txtdescricao" placeholder="Insira o nome da Forma de pagamento..." class="form-control" maxlength="50" disabled>
+    </div>
+
+    <div class="col-6 form-group">
+        <label for="txttipo">Tipo Recebimento</label>
+        <input type="text" id="txttipo" placeholder="Insira o tipo de Recebimento..." class="form-control" maxlength="50" disabled>
+    </div>
+
+    <div class="col-6 form-group">
+        <label for="txttaxa_cartao">Taxa do Cartão</label>
+        <input type="text" id="txttaxa_cartao" placeholder="Insira a taxa do cartão..." class="form-control" disabled>
+    </div>
+
+    <div class="col-12 form-group">
+        <button type="button" id="btnsalvar" class="btn btn-primary" disabled>Salvar</button>
+    </div>
+
+    <hr />
+</div>
+
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/js/CadastroFormaPagamento.js"></script>
+}

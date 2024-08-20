@@ -1,0 +1,100 @@
+﻿@page
+@model www.Pages.PesquisaContasPagarModel
+@{
+    ViewData["Title"] = "Gerenciamento de Contas a Pagar";
+}
+
+<style>
+    .top-right-button {
+        float: right;
+    }
+
+    .table-container {
+        margin-top: 20px;
+    }
+
+    .title-icon {
+        align-items: center;
+    }
+
+        .title-icon i {
+            margin-right: 10px;
+        }
+
+    .table thead {
+        background-color: #3A3E8D;
+        color: white;
+        border-radius: 10px;
+    }
+
+        .table thead th {
+            padding: 10px; /* Espaçamento interno nas células do cabeçalho */
+        }
+
+    .table tbody td {
+        padding: 10px; /* Espaçamento interno nas células do corpo */
+    }
+
+    .table {
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+    .action-btn {
+        margin-right: 5px;
+    }
+
+    .action-icon {
+        width: 24px;
+        height: 24px;
+    }
+</style>
+
+
+<div class="row">
+    <div class="col title-icon">
+        <i class="fas fa-money-bill-alt fa-3x"></i>
+        <h1><center>Gerenciamento de Contas a Pagar</center></h1>
+    </div>
+    <div class="col-12 form-group">
+        <button type="button" onclick="location.href='/ContasPagar'" class="btn btn-success">Novo</button>
+    </div>
+</div>
+<hr />
+<div class="table-container">
+    <div class="table">
+        <table id="tabelaContasPagar" class="table table-striped table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">Código</th>
+                    <th scope="col">Status</th>
+                    <th scope="col">Data da Conta</th>
+                    <th scope="col">Fornecedor</th>
+                    <th scope="col">Valor</th>
+                    <th scope="col">Data de Vencimento</th>
+                    <th scope="col">Editar</th>
+                </tr>
+            </thead>
+            <tbody id="tabela">
+            </tbody>
+        </table>
+    </div>
+</div>
+<table style="display:none">
+    <tr id="linhaExemplo">
+        <th scope="row" class="codigo"></th>
+        <td class="Status"></td>
+        <td class="dataemissao"></td>
+        <td class="fornecedor"></td>
+        <td class="valor"></td>
+        <td class="datavencimento"></td>
+        <td>
+            <a href="#" class="alterar action-btn"><img src="/imagens/editar.png" class="action-icon" alt="Editar"></a>
+        </td>
+    </tr>
+</table>
+
+@section Scripts
+{
+    <script src="~/js/Pagar.js"></script>
+}

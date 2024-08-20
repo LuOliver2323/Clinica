@@ -1,0 +1,233 @@
+﻿@page
+@model www.Pages.CadastroPacienteModel
+@{
+    ViewData["Title"] = "Cadastro do Paciente";
+}
+
+<div class="row">
+
+    <div class="col-12">
+        <h1>
+            <button type="button" id="btnPesquisar" class="btn btn-light" onclick="window.location.href='/PesquisaPaciente'">
+                <img src="~/imagens/procurar.png" alt="Pesquisar" style="width: 20px; height: 20px;">
+                Pesquisar
+            </button>
+            <center>Cadastro de Paciente</center>
+        </h1>
+    </div>
+
+    <div class="col-10 form-group">
+        <button type="button" id="btnNovo" class="btn btn-success">Novo</button>
+        <button type="button" id="btnEditar" class="btn btn btn-warning">Editar</button>
+        <button type="button" id="btnInativar" class="btn btn-danger">Inativar</button>
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="ddlstatus">Status</label>
+        <select id="ddlstatus" class="form-control" disabled>
+            <option value="1">Ativo</option>
+            <option value="0">Inativo</option>
+        </select>
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtid">Código</label>
+        <input type="text" id="txtid" value="0" class="form-control" readonly>
+    </div>
+
+    <div class="col-6 form-group">
+        <label for="txtnome">Nome Completo</label>
+        <input type="text" id="txtnome" placeholder="Insira o nome do paciente..." class="form-control" maxlength="120">
+        <div class="invalid-feedback">O nome do paciente é obrigatório.</div>
+    </div>
+
+    <div class="col-4 form-group">
+        <label for="txtdatanascimento">Data de Nascimento</label>
+        <input type="date" id="txtdatanascimento" class="form-control" disabled>
+        <div class="invalid-feedback">A data de nascimento é obrigatória.</div>
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtidade">Idade</label>
+        <input type="text" id="txtidade" class="form-control" readonly>
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="txtcpf">CPF</label>
+        <input type="number" id="txtcpf" placeholder="Insira o CPF do paciente..." class="form-control" maxlength="11">
+        <div class="invalid-feedback">O CPF é obrigatório.</div>
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="txtrg">RG</label>
+        <input type="text" id="txtrg" placeholder="Insira o RG do paciente..." class="form-control" maxlength="9">
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtanoescolar">Ano Escolar</label>
+        <input type="number" id="txtanoescolar" placeholder="Insira o Ano Escolar..." class="form-control" maxlength="40">
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtescola">Escola</label>
+        <input type="text" id="txtescola" placeholder="Insira a Escola..." class="form-control" maxlength="100">
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtcep">CEP</label>
+        <input type="number" id="txtcep" placeholder="Insira o CEP e pressione TAB..." class="form-control" maxlength="8">
+    </div>
+
+    <div class="col-6 form-group">
+        <label for="txtlogradouro">Endereço</label>
+        <input type="text" id="txtlogradouro" placeholder="Insira o endereço..." class="form-control" maxlength="150">
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtbairro">Bairro</label>
+        <input type="text" id="txtbairro" placeholder="Insira o bairro..." class="form-control" maxlength="50">
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtnumero">Número</label>
+        <input type="number" id="txtnumero" placeholder="Insira o número..." class="form-control" maxlength="10">
+    </div>
+
+    <div class="col-4 form-group">
+        <label for="txtcontato">Telefone</label>
+        <input type="number" id="txtcontato" placeholder="Insira o telefone..." class="form-control" maxlength="11">
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtdataentrada">Data de Entrada</label>
+        <input type="date" id="txtdataentrada" class="form-control" disabled>
+        <div class="invalid-feedback">A data de entrada é obrigatória.</div>
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtdatasaida">Data de Saída</label>
+        <input type="date" id="txtdatasaida" class="form-control" disabled>
+        <div class="invalid-feedback">A data de saída não pode ser menor que a data de entrada.</div>
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtuf">Estado</label>
+        <input type="text" id="txtuf" placeholder="Insira o Estado..." class="form-control" maxlength="2">
+    </div>
+
+    <div class="col-2 form-group">
+        <label for="txtmunicipio">Cidade</label>
+        <input type="text" id="txtmunicipio" placeholder="Insira a Cidade..." class="form-control" maxlength="70">
+    </div>
+
+    <div class="col-6 form-group">
+        <label for="txtobservacoes">Observações</label>
+        <textarea class="form-control" id="txtobservacoes" placeholder="Insira as observações do paciente..." maxlength="350"></textarea>
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="uso-medicamento">O paciente faz uso de medicamento?</label>
+        <select class="form-control" id="uso-medicamento">
+            <option value="sim">Sim</option>
+            <option value="nao">Não</option>
+        </select>
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="alergia">O paciente tem alergia?</label>
+        <select class="form-control" id="alergia">
+            <option value="sim">Sim</option>
+            <option value="nao">Não</option>
+        </select>
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="txtnome_responsavel">Nome do Responsável</label>
+        <input type="text" id="txtnome_responsavel" placeholder="Insira o nome do responsável..." class="form-control" maxlength="120">
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="txtprofissao_responsavel">Profissão</label>
+        <input type="text" id="txtprofissao_responsavel" placeholder="Insira a profissão..." class="form-control" maxlength="50">
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="txttelefone_responsavel">Telefone</label>
+        <input type="number" id="txttelefone_responsavel" placeholder="Insira o telefone..." class="form-control" maxlength="11">
+    </div>
+
+    <div class="col-3 form-group">
+        <label for="txtcpf_responsavel">CPF</label>
+        <input type="number" id="txtcpf_responsavel" placeholder="Insira o CPF..." class="form-control" maxlength="11">
+    </div>
+
+    <div class="col-12 form-group">
+        <button type="button" id="btnsalvar" class="btn btn-primary">Salvar</button>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/js/CadastroPaciente.js"></script>
+
+    <script>
+    // Função para consultar o CEP e preencher os campos
+    async function consultarCep() {
+        const cep = document.getElementById('txtcep').value.replace(/\D/g, ''); // Remove caracteres não numéricos
+        if (cep.length === 8) {
+            const response = await fetch(`https://viacep.com.br/ws/${cep}/json/`);
+            if (response.ok) {
+                const data = await response.json();
+                if (!data.erro) {
+                    document.getElementById('txtlogradouro').value = data.logradouro || '';
+                    document.getElementById('txtbairro').value = data.bairro || '';
+                    document.getElementById('txtmunicipio').value = data.localidade || '';
+                    document.getElementById('txtuf').value = data.uf || '';
+                    // Ajuste o campo número se necessário
+                } else {
+                    alert('CEP não encontrado.');
+                }
+            } else {
+                alert('Erro ao consultar o CEP.');
+            }
+        } else {
+            alert('CEP inválido.');
+        }
+    }
+
+    // Adiciona o evento de input ao campo CEP
+    document.getElementById('txtcep').addEventListener('blur', consultarCep);
+
+        // Limitar caracteres para campos específicos
+        document.getElementById('txtcontato').addEventListener('input', function () {
+            if (this.value.length > 11) {
+                this.value = this.value.slice(0, 11);
+            }
+        });
+
+        document.getElementById('txtcpf').addEventListener('input', function () {
+            if (this.value.length > 11) {
+                this.value = this.value.slice(0, 11);
+            }
+        });
+
+        document.getElementById('txtnumero').addEventListener('input', function () {
+            if (this.value.length > 10) {
+                this.value = this.value.slice(0, 10);
+            }
+        });
+
+        document.getElementById('txttelefone_responsavel').addEventListener('input', function () {
+            if (this.value.length > 10) {
+                this.value = this.value.slice(0, 11);
+            }
+        });
+
+        document.getElementById('txtcpf_responsavel').addEventListener('input', function () {
+            if (this.value.length > 10) {
+                this.value = this.value.slice(0, 11);
+            }
+        });
+
+    </script>
+}
